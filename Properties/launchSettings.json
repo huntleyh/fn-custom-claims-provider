@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "fn_hh_customclaimsprovider": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7037",
+      "launchBrowser": false
+    }
+  }
+}
